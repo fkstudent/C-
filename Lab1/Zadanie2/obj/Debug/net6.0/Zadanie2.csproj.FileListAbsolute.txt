@@ -1,0 +1,15 @@
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\bin\Debug\net6.0\Zadanie2.exe
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\bin\Debug\net6.0\Zadanie2.deps.json
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\bin\Debug\net6.0\Zadanie2.runtimeconfig.json
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\bin\Debug\net6.0\Zadanie2.dll
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\bin\Debug\net6.0\ref\Zadanie2.dll
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\bin\Debug\net6.0\Zadanie2.pdb
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\obj\Debug\net6.0\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\obj\Debug\net6.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\obj\Debug\net6.0\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\obj\Debug\net6.0\Zadanie2.AssemblyInfo.cs
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\obj\Debug\net6.0\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\obj\Debug\net6.0\Zadanie2.dll
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\obj\Debug\net6.0\ref\Zadanie2.dll
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\obj\Debug\net6.0\Zadanie2.pdb
+C:\Users\Filip\Desktop\c#\Lab1\Zadanie2\obj\Debug\net6.0\Zadanie2.genruntimeconfig.cache

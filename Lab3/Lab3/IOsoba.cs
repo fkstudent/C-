@@ -4,7 +4,7 @@ namespace Lab3
    public interface IOsoba
 {
         void SetImie(String imie);
-        void SetNazwisko(String nazwiko);
+        void SetNazwisko(String nazwisko);
 
         string ZwrocPelnaNazwe();
 

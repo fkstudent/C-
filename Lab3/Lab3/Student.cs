@@ -34,12 +34,12 @@ namespace Lab3
             this.Imie = imie;
         }
 
-        public void SetNazwisko(string nazwiko)
+        public void SetNazwisko(string nazwisko)
         {
-            this.Nazwisko = nazwiko;
+            this.Nazwisko = nazwisko;
         }
 
-        public string GetNazwiko()
+        public string GetNazwisko()
         {
             return Nazwisko;
         }

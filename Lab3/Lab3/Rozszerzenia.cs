@@ -17,7 +17,7 @@ namespace Lab3
         }
         public static void PosortujOsobyPoNazwisku(this List<Osoba> lista)
         {
-            lista.Sort((osoba1, osoba2) => osoba1.GetNazwiko().CompareTo(osoba2.GetNazwiko()));
+            lista.Sort((osoba1, osoba2) => osoba1.GetNazwsiko().CompareTo(osoba2.GetNazwsiko()));
         }
     }
 }

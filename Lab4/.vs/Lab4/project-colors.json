@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "daedd55d-0b82-4605-bd2b-d36c5a98370f": {
+      "ProjectGuid": "daedd55d-0b82-4605-bd2b-d36c5a98370f",
+      "DisplayName": "Lab4",
+      "ColorIndex": 0
+    },
+    "9d1cb0c8-eeeb-49e6-9afc-61677b44eb72": {
+      "ProjectGuid": "9d1cb0c8-eeeb-49e6-9afc-61677b44eb72",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

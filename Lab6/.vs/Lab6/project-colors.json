@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e33a918-ba4d-4e9b-a90a-4c4591fe9523": {
+      "ProjectGuid": "0e33a918-ba4d-4e9b-a90a-4c4591fe9523",
+      "DisplayName": "Lab6",
+      "ColorIndex": 0
+    },
+    "b321c25e-bf9a-4dcc-8c39-22759e79c6d7": {
+      "ProjectGuid": "b321c25e-bf9a-4dcc-8c39-22759e79c6d7",
+      "DisplayName": "Cwiczenie2",
+      "ColorIndex": 1
+    },
+    "228a1c03-fdfa-4f03-9fbe-6bb0a16c1d35": {
+      "ProjectGuid": "228a1c03-fdfa-4f03-9fbe-6bb0a16c1d35",
+      "DisplayName": "Cwiecznie3",
+      "ColorIndex": 2
+    },
+    "90bd2c8c-a3fd-47f6-a2c8-720a23730325": {
+      "ProjectGuid": "90bd2c8c-a3fd-47f6-a2c8-720a23730325",
+      "DisplayName": "Cwiczenie4",
+      "ColorIndex": 3
+    },
+    "7a2ed086-9173-433e-bfa2-3ba24b375660": {
+      "ProjectGuid": "7a2ed086-9173-433e-bfa2-3ba24b375660",
+      "DisplayName": "Cwiczenie5",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,77 @@
+﻿<Window
+    x:Class="WpfApp1.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:WpfApp1"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="522"
+    Height="364"
+    mc:Ignorable="d">
+    <Grid Margin="0,10,49,34">
+        <Label
+            Margin="75,25,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="podaj a" />
+        <Label
+            Margin="75,70,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="podaj b" />
+        <TextBox
+            x:Name="box1"
+            Width="120"
+            Margin="156,29,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            TextWrapping="Wrap" />
+        <TextBox
+            x:Name="box2"
+            Width="120"
+            Margin="156,70,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            TextWrapping="Wrap" />
+        <Button
+            Width="57"
+            Margin="75,111,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="Button_Click"
+            Content="suma" />
+        <Button
+            Width="60"
+            Margin="156,111,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="Button_Click_1"
+            Content="roznica" />
+        <Button
+            Width="60"
+            Margin="236,111,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="Button_Click_2"
+            Content="iloczyn"
+            RenderTransformOrigin="0.643,0.353" />
+        <Button
+            Width="65"
+            Margin="316,111,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="Button_Click_3"
+            Content="iloraz" />
+        <TextBox
+            x:Name="wynik"
+            Width="325"
+            Height="24"
+            Margin="0,177,0,0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            Text="wynik"
+            TextWrapping="Wrap" />
+
+    </Grid>
+</Window>

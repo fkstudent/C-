@@ -1,0 +1,17 @@
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\bin\Debug\net6.0-windows\Cwiecznie3.exe
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\bin\Debug\net6.0-windows\Cwiecznie3.deps.json
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\bin\Debug\net6.0-windows\Cwiecznie3.runtimeconfig.json
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\bin\Debug\net6.0-windows\Cwiecznie3.dll
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\bin\Debug\net6.0-windows\ref\Cwiecznie3.dll
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\bin\Debug\net6.0-windows\Cwiecznie3.pdb
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.csproj.AssemblyReference.cache
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.Form1.resources
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.csproj.GenerateResource.cache
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.AssemblyInfoInputs.cache
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.AssemblyInfo.cs
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.csproj.CoreCompileInputs.cache
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.dll
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\ref\Cwiecznie3.dll
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.pdb
+C:\Users\FK\Desktop\C#\Lab6\Cwiecznie3\obj\Debug\net6.0-windows\Cwiecznie3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\bin\Debug\net6.0-windows\Cwiczenie5.exe
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\bin\Debug\net6.0-windows\Cwiczenie5.deps.json
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\bin\Debug\net6.0-windows\Cwiczenie5.runtimeconfig.json
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\bin\Debug\net6.0-windows\Cwiczenie5.dll
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\bin\Debug\net6.0-windows\ref\Cwiczenie5.dll
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\bin\Debug\net6.0-windows\Cwiczenie5.pdb
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\Cwiczenie5.Form1.resources
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\Cwiczenie5.csproj.GenerateResource.cache
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\Cwiczenie5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\Cwiczenie5.AssemblyInfoInputs.cache
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\Cwiczenie5.AssemblyInfo.cs
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\Cwiczenie5.csproj.CoreCompileInputs.cache
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\Cwiczenie5.dll
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\ref\Cwiczenie5.dll
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\Cwiczenie5.pdb
+C:\Users\FK\Desktop\C#\Lab6\Cwiczenie5\obj\Debug\net6.0-windows\Cwiczenie5.genruntimeconfig.cache

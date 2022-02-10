@@ -1,0 +1,17 @@
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.exe
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.deps.json
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.runtimeconfig.json
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.dll
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\ref\Zadanie2.dll
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\bin\Debug\net6.0-windows\Zadanie2.pdb
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.Form1.resources
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.csproj.GenerateResource.cache
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.AssemblyInfo.cs
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.dll
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\ref\Zadanie2.dll
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.pdb
+C:\Users\FK\Desktop\Materialy studia\C#\Lab7\WinFormsApp1\Zadanie2\obj\Debug\net6.0-windows\Zadanie2.genruntimeconfig.cache
